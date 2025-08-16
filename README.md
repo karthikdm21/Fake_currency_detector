@@ -1,7 +1,7 @@
 Indian Currency Counterfeit Detection System Using Image Processing
 Overview
 This project focuses on verifying the authenticity of Indian currency notes by implementing a system that processes the image of a currency note and determines whether it is genuine or fake. The system leverages advanced image processing and computer vision techniques, built entirely in Python using Jupyter Notebooks. OpenCV is utilized for image analysis, while Tkinter is used to create an interactive GUI for user input and result display.
-
+<br>
 Technologies and Libraries Used
 OpenCV - For image processing
 Tkinter - For GUI development
@@ -10,7 +10,7 @@ Matplotlib - For visualization
 Jupyter Notebook - For development and execution
 Dataset Information
 The system currently supports only Indian currency notes of denominations ₹500 and ₹2000. The dataset includes both real and counterfeit currency images, which have been manually collected from various sources. This dataset plays a crucial role in training and testing the model to identify key features that distinguish real notes from fake ones.
-
+<br>
 Project Structure
 Dataset Folder: Contains authentic and fake currency note images.
 Fake Notes Folder: Includes fake ₹500 and ₹2000 currency images for testing.
@@ -41,20 +41,27 @@ Number of authentic features detected
 SSIM similarity score for each feature
 Pass/Fail status of each feature
 Final authenticity result
+<br>
 Key Improvements and Unique Features
 ✅ Real-time currency analysis using advanced image processing techniques.
+<br>
 ✅ Supports both ₹500 and ₹2000 denomination notes.
+<br>
 ✅ GUI-based system for easy image selection and result visualization.
+<br>
 ✅ SSIM-based feature similarity analysis for accurate detection.
+<br>
 ✅ Visual representation of detected features and authenticity score.
+<br>
 ✅ Custom dataset built specifically for Indian currency notes.
-
+<br>
 Possible Future Enhancements
 Adding support for more Indian currency denominations.
 Enhancing accuracy by implementing deep learning models.
 Building a mobile-based application for on-the-go currency verification.
 Integrating OCR (Optical Character Recognition) for serial number verification.
+<br>
 Conclusion
 This Fake Currency Detection System efficiently identifies counterfeit Indian currency notes using image processing techniques. With the help of OpenCV and Tkinter, the system accurately analyzes key features and provides a detailed report on the authenticity of the note. This project not only enhances the accuracy of counterfeit detection but also paves the way for future advancements in currency verification systems.
-
+<br>
 "Say goodbye to fake notes and stay one step ahead with this intelligent detection system!"
