@@ -20,6 +20,7 @@ controller.ipynb: The main controller notebook that handles input and generates 
 gui_1.ipynb: GUI for uploading the input image.
 gui_2.ipynb: GUI for displaying the final result.
 FAKE_CURRENCY_DETECTOR_REPORT: Contains a detailed project report, including methodology, dataset structure, and results.
+<br>
 How It Works
 Clone the repository to your local machine.
 Open controller.ipynb in Jupyter Notebook.
@@ -42,7 +43,8 @@ SSIM similarity score for each feature
 Pass/Fail status of each feature
 Final authenticity result
 <br>
-Key Improvements and Unique Features
+Key Improvements and Unique Features <h3>
+<br>
 ✅ Real-time currency analysis using advanced image processing techniques.
 <br>
 ✅ Supports both ₹500 and ₹2000 denomination notes.
